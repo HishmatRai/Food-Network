@@ -1,0 +1,10 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    background-image: url("https://i.pinimg.com/originals/8d/6f/01/8d6f01146929e1e80fb35b0f8b7d6ebc.jpg");
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
